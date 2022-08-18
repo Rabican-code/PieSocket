@@ -1,9 +1,6 @@
 import { Link } from "react-router-dom";
 import "./Footer.css"
 import {Resources,Support,Company,Legal} from "./FooterData"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebook } from "@fortawesome/free-brands-svg-icons";
-import {} from "@fortawesome/fontawesome-svg-core"
 function Footer() {
 
     return (
