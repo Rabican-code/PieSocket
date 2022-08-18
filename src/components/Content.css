@@ -1,0 +1,94 @@
+
+
+.whats_new {
+        position: absolute;
+        top: 174px;
+        left: 100px;
+        background-color: #eef2ff;
+        text-decoration: none;
+        color: #4f46e5;
+        font-size: 12px;
+        font-weight: 600;
+        height: 12px;
+        padding: 8px 15px;  
+        width: 84px;
+}
+
+.latest_version {
+    position: absolute;
+    top: 180px;
+    left: 230px;
+    text-decoration: none;
+    display: inline;
+    color: #4f46e5;
+    font-size: 14px;
+    font-weight: 600;
+    height: 24px;
+    margin: 0px;
+    width: 184px;
+}
+
+.big_text {
+    position: absolute;
+    z-index: -1;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 48px;
+    top: 200px;
+    left: 100px;
+    letter-spacing: -1.2px;
+    text-decoration: none solid rgb(17,2439);
+}
+
+.para {
+    position: absolute;
+    z-index: -1;
+    top: 330px;
+    font-size: 20px;
+    font-weight: 400;
+    height: 84px;
+    line-height: 28px;
+    padding: 0px;
+    width: 560px;
+    left: 100px;
+    
+}
+
+.pie_gif {
+    position: absolute;
+    top: 150px;
+    margin-left: 760px;
+    font-size: 16px;
+    font-weight: 400;
+    height: 488px;  
+    line-height: 24px;
+    width: 960px;
+    z-index: -1;
+}
+
+
+.get_started {
+        position: absolute;
+            top: 480px;
+            left: 130px;
+    text-decoration: none;
+    color: rgb(104, 85, 224);
+    padding: 12px 15px;
+    background-color: rgba(255, 255, 255, 1);
+
+    box-shadow: 0px 0px 1px;
+}
+
+.use_cases {
+    position: absolute;
+    top: 478px;
+    left: 250px;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    background-color: rgba(104, 85, 224, 1);
+    padding: 12px 15px;
+    height: 20px;
+    width: 80px;
+    border-radius: 4px;
+}

@@ -1,0 +1,44 @@
+        <img src={logo} className='navbar-logo' alt="piesocket_logo"/>
+
+        <div  className="topnav">
+          
+            <Link to="/products">Products</Link>
+          
+            <Link to="/pricing">Pricing</Link>
+          
+            <Link to="/Why_us">Why us</Link>
+          
+            <Link to="/tools">Tools</Link>
+           
+            <Link to="/blog">Blog</Link>
+          
+            <Link to="/docs">Docs</Link>
+          
+
+        </div>
+
+
+
+                {navItems.map((item) => {
+                if (item.title === "Products") {
+                return (
+                <li key={item.id} className="topnav">
+                    <Link to={item.path} onMouseEnter={()=> { setDropdown(true) }}
+                    >
+                    {item.title}
+                    </Link>
+                    {dropdown &&
+                    <Dropdown />}
+                </li>
+                
+                )
+                }
+                return (
+                <li key={item.id} className={item.cName}>
+                    <Link to={item.path}>
+                    {item.title}
+                    </Link>
+                </li>
+                
+                )
+                })}

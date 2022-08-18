@@ -1,0 +1,67 @@
+
+.access {
+    position: absolute;
+    top: 2200px;
+    left: 700px;
+}
+
+.Reviews-text {
+    color: #111827;
+    font-size: 24px;
+    font-weight: 500;
+    height: 72px;
+    line-height: 36px;
+    position: relative;
+    width: 768px;
+    text-align: center;
+}
+
+
+.Reviews-anthony {
+    position: absolute;
+    left: 440px;
+    top: 2300px;
+}
+
+.person {
+    font-size: 16px;
+    font-weight: 400;
+    height: 40px;
+    line-height: 24px;
+    width: 40px;
+    line-height: 36px;
+    border-radius: 50px;
+    text-align: center;
+    position: relative;
+    left: 150px;
+}
+
+.Reviews-info {
+    color: #111827;
+    font-size: 16px;
+    position: relative;
+    top: -45px;
+    left: 200px;
+    height: 24px;
+    width: 131px;
+}
+
+.Reviews-h3 {
+    position: relative;
+    top: -99px;
+    left: 339px;
+    font-size: 25px;
+    color: blue;
+}
+
+.Reviews-info2 {
+    color: #6b7280;
+    font-size: 16px;
+    font-weight: 500;
+    height: 24px;
+        position: relative;
+            top: -150px;
+            left: 355px;
+    line-height: 24px;
+    width: 281px;
+}

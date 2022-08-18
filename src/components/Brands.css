@@ -1,0 +1,22 @@
+.brands_text {
+    color: #9ca3af; 
+    font-size: 14px;
+    font-weight: 600;
+    height: 20px;
+    line-height: 20px;
+    width: 1216px;
+    position: absolute;
+    top: 730px;
+    left: 700px;
+    }
+
+.brands{
+    position: absolute;
+    top: 800px;
+    left: 80px;
+    
+}
+
+.brands img {
+    margin-left: 100px;
+}

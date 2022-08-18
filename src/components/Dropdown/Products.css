@@ -1,0 +1,42 @@
+.products {
+    display: block;
+    list-style-type: none;
+    position: absolute;
+    left: 400px;
+    top: 80px;
+    width: 200px;
+    height: 270px;
+    box-shadow:0px 0px 1px black;
+    background-color: white;
+    border-radius: 15px;
+   
+}
+
+.products-item {
+    margin-top: 30px;
+}
+
+.products-item:hover {
+    margin-top: 30px;
+    
+}
+
+.products-link {
+    margin-left: -40px;
+    position: relative;
+    color: black;   
+    text-decoration: none;
+    font-size: 17px;
+    justify-content: left;
+    font-weight: bold;
+    height: 70px;
+}
+
+.about {
+    text-align: center;
+    margin-left: -120px;
+    width: 400px;
+    color: rgb(101, 101, 101);
+    justify-content: left;
+    font-size: 12px;
+}
