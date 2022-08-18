@@ -31,10 +31,11 @@ z-index: -1;
 
 .resourcesItemLi {
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .resourcesItem {
-    cursor: pointer;
+    
     text-decoration: none;
     color: #ffffff;
     padding: 10px;
@@ -81,10 +82,11 @@ z-index: -1;
 
 .supportItemLi {
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .supportItem{
-    cursor: pointer;
+    
     text-decoration: none;
     color: #ffffff;
     font-size: 16px;
@@ -130,10 +132,11 @@ z-index: -1;
 
 .companyItemLi {
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .companyItem {
-    cursor: pointer;
+    
     text-decoration: none;
     color: #ffffff;
     font-size: 16px;
@@ -180,10 +183,11 @@ z-index: -1;
 
 .legalItemLi {
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .legalItem {
-    cursor: pointer;
+    
     text-decoration: none;
     color: #ffffff;
     font-size: 16px;
