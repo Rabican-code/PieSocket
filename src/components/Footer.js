@@ -86,9 +86,7 @@ function Footer() {
                 </div>
                
             </div>
-             <div>
-                <Link to="facebook"><FontAwesomeIcon icon={faFacebook}></FontAwesomeIcon></Link>
-            </div>
+
             
         </> 
     );
