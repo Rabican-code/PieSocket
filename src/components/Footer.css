@@ -1,32 +1,33 @@
-.footer{
-background-color: #1f2937;
-color: #000000;
-font-size: 16px;
-font-weight: 400;
-height: 397px;
-line-height: 24px;
-width: 1741px;
-position: absolute;
-top: 3500px;
-left:-30px;
-z-index: -1;
-}
-.resdiv{
-    
+.footer {
+    background-color: #1f2937;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    height: 397px;
+    line-height: 24px;
+    width: 1741px;
     position: absolute;
+    top: 3500px;
+    left: -30px;
+    z-index: -1;
 }
+
+.resdiv {
+    
+}
+
 .resources {
     color: #000000;
     list-style-type: none;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 24px;
-        padding: 40px 60px;
-        width: 376px;
-        position: relative;
-        left: 100px;
-        height: 30px;
-    }
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 40px 60px;
+    width: 376px;
+    position: absolute;
+    left: 100px;
+    height: 30px;
+}
 
 
 .resourcesItemLi {
@@ -35,7 +36,6 @@ z-index: -1;
 }
 
 .resourcesItem {
-    
     text-decoration: none;
     color: #ffffff;
     padding: 10px;
@@ -51,20 +51,19 @@ z-index: -1;
 
 .RESOURCES {
     color: #9ca3af;
-        font-size: 14px;
-        font-weight: 600;
-        height: 20px;
-        line-height: 20px;
-        margin: 0px;
-        padding: 0px;
-        width: 176px;
-        position: absolute;
-        left: 67px;
+    font-size: 14px;
+    font-weight: 600;
+    height: 20px;
+    line-height: 20px;
+    margin: 0px;
+    padding: 0px;
+    width: 176px;
+    position: absolute;
+    left: 67px;
 }
 
 .supdiv {
     
-    position: absolute;
 }
 
 .support {
@@ -76,7 +75,7 @@ z-index: -1;
     line-height: 24px;
     padding: 40px 60px;
     width: 376px;
-    position: relative;
+    position: absolute;
     left: 300px;
 }
 
@@ -85,8 +84,7 @@ z-index: -1;
     cursor: pointer;
 }
 
-.supportItem{
-    
+.supportItem {
     text-decoration: none;
     color: #ffffff;
     font-size: 16px;
@@ -113,7 +111,6 @@ z-index: -1;
 
 .comdiv {
     
-    position: absolute;
 }
 
 .company {
@@ -125,7 +122,7 @@ z-index: -1;
     line-height: 24px;
     padding: 40px 60px;
     width: 376px;
-    position: relative;
+    position: absolute;
     left: 450px;
 
 }
@@ -136,7 +133,6 @@ z-index: -1;
 }
 
 .companyItem {
-    
     text-decoration: none;
     color: #ffffff;
     font-size: 16px;
@@ -162,7 +158,6 @@ z-index: -1;
 }
 
 .legaldiv {
-    
     position: absolute;
 }
 
@@ -187,7 +182,6 @@ z-index: -1;
 }
 
 .legalItem {
-    
     text-decoration: none;
     color: #ffffff;
     font-size: 16px;
@@ -213,10 +207,11 @@ z-index: -1;
 }
 
 .input {
-    padding-left: 1100px;
-    padding-top: 110px;
-    
-    }
+ position: absolute;
+ top: 100px;
+ right: 250px;
+
+}
 
 .email {
     color: black;
@@ -246,7 +241,7 @@ z-index: -1;
     border-radius: 6px;
 }
 
-.input h3{
+.input h3 {
     color: #9ca3af;
     font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 14px;
@@ -256,7 +251,7 @@ z-index: -1;
     margin: 0px;
     padding: 0px;
     width: 384px;
-}   
+}
 
 .input h4 {
     color: #d1d5db;
@@ -264,23 +259,23 @@ z-index: -1;
     font-size: 16px;
     font-weight: 400;
     height: 24px;
-    
+
     line-height: 24px;
     width: 384px;
 
 }
 
 .footer-last {
-            color: #9ca3af;
-            font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-            font-size: 16px;
-            font-weight: 400;
-            height: 24px;
-            line-height: 24px;
-            position: relative;
-            left: 167px;
-            top:0px;
-            padding: 0px;
-            width: 317px;
-        
+    color: #9ca3af;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    left: 167px;
+    top: 0px;
+    padding: 0px;
+    width: 317px;
+
 }
